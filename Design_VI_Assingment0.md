@@ -15,12 +15,8 @@ Some of my major influences include
 2. Beka Gochiashvili- the first jazz pianist I ever saw live
 3. Issac Newton- When I was in elementary school (~7 years old) he was my favorite mathemetician/scientist, and I wanted to be a physicist when I grew up.
 ---
-`#include <iostream>
-using namespace std;
-int main() {
-  cout << "Hello World!";
-  return 0;
-}`
+`#include <iostream>`
+
 I am not very good at coding, so unfortunately I am unable to provide something personalized to myself in a reasonable timeframe
 ---
 [lichess website](https://lichess.org/) I've been playing chess for most of my life, but unfortunately am still not very good.
