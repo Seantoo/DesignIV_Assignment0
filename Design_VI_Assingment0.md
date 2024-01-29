@@ -17,7 +17,7 @@ Some of my major influences include
 ---
 `#include <iostream>`
 
-I am not very good at coding, so unfortunately I am unable to provide something personalized to myself in a reasonable timeframe
+I am not very good at coding, but am looking to develop my skills in that area in the future.
 ---
 [lichess website](https://lichess.org/) I've been playing chess for most of my life, but unfortunately am still not very good.
 ---
