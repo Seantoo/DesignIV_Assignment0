@@ -1,4 +1,4 @@
-# S
+# Design VI Assignment 0
 ## Heading 2
 **Bold Text**
 *Italics are cool*
