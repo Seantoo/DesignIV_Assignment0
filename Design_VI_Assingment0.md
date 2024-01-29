@@ -3,7 +3,7 @@
 **This document contains some basic information about me.**
 
 >"I have measured out my life with coffee spoons;"
-*- T.S. Elliot *
+*-T.S. Elliot*
 ---
 Currently, some of my primary interests are:
 - Improvisational music and music theory
