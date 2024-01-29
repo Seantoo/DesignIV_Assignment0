@@ -21,4 +21,4 @@ I am not very good at coding, but am looking to develop my skills in that area i
 ---
 [lichess website](https://lichess.org/) I've been playing chess for most of my life, but unfortunately am still not very good.
 ---
-![alt text](Avoid.jpg) is the book you mentioned in class.
+![alt text](Avoid.jpg) A mystery novel about the letter e, but does not contain a single "e" in the writing.
