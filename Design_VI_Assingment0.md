@@ -1,5 +1,5 @@
 # Design VI Assignment 0
-## Heading 2
+## Here is Another Heading
 **Bold Text**
 *Italics are cool*
 >Here is a block quote
