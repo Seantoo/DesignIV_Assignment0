@@ -1,5 +1,4 @@
 # READ.md
-## Here is Another Heading
 **This document contains some basic information about me.**
 
 >"I have measured out my life with coffee spoons;"
